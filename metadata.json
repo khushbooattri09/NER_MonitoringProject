@@ -1,0 +1,8 @@
+{
+  "name": "Remix Landslide Risk AI Monitor",
+  "description": "An AI-powered geospatial platform for predicting and visualizing landslide susceptibility across Northeast India using machine learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
